@@ -16,3 +16,5 @@ This simulator models the Zeeman effect in a Fabry-Perot interferometer, allowin
 To run the simulator, you need to have Python and the following libraries installed:
 ```bash
 pip install numpy matplotlib json
+
+By Morris Eriksson, Pelle Nydahl, Hannes Karlsson, Oscar Wollman
