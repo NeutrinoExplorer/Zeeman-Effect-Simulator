@@ -11,10 +11,11 @@ This simulator models the Zeeman effect in a Fabry-Perot interferometer, allowin
 - **Normal Zeeman Effect:** The code only considers the normal Zeeman effect.
 - **Energy Transitions:** Simulates only transitions between adjacent azimuthal quantum numbers.
 - **Light Source Database:** A `sources.json` file is included, where you can add or modify light source data for use in the simulator.
+##
+By Morris Eriksson, Pelle Nydahl, Hannes Karlsson, Oscar Wollman
 
 ## Requirements
 To run the simulator, you need to have Python and the following libraries installed:
 ```bash
 pip install numpy matplotlib json
 
-By Morris Eriksson, Pelle Nydahl, Hannes Karlsson, Oscar Wollman
